@@ -200,8 +200,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
   color: #fff;
   font-weight: bold;
   background-image: url(../images/b.JPG);/* 背景画像 */
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-size: covers;
   background-position: center;
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
   
