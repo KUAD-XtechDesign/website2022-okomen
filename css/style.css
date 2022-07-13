@@ -202,6 +202,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
   background-image: url(../images/b.JPG);/* 背景画像 */
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
   
   /* 上下左右中央テクニック https://ics.media/entry/17522/ */
