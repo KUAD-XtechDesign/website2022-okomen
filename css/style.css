@@ -17,7 +17,7 @@ body {
 }
 
 body {
-  font-size: 60px;
+  font-size: 30px;
   line-height: 1.6;
   font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
   color: #333333;
@@ -304,7 +304,7 @@ worksページ
 }
 
 .thumb_list {
-  animation: fadein 2s ease-out forwards;
+  animation: fadein 3s ease-out forwards;
 }
 
 @keyframes fadein {
@@ -350,8 +350,8 @@ reportページ
 }
 
 .report .outline .pic {
-  width: 45%;
-  border: 3px solid #999;
+  width: 40%;
+  border: 0px solid #999;
 }
 
 .report .outline .txt {
